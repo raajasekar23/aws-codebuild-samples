@@ -1,6 +1,6 @@
 #!/bin/bash
 source /home/ubuntu/.bash_profile
-cd /home/ubuntu
+cd /home/ubunt
 node --version
 if [ $? -ne 0 ]
 then
